@@ -6,6 +6,7 @@
       <class name="Retailer_Domain.Amazon"/>
       <class name="Retailer_Domain.Flipcart"/>
       <class name="Retailer_Domain.Ajio"/>
+      <class name="Retailer_Domain.Meesho"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
