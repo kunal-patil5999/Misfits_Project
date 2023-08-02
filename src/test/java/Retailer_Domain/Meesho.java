@@ -15,5 +15,6 @@ public class Meesho {
 	  driver.manage().window().maximize();
 	  
 	  Thread.sleep(3000);
+	  driver.close();
   }
 }
