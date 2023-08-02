@@ -4,9 +4,10 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="Retailer_Domain.Amazon"/>
+      <class name="Retailer_Domain.Meesho"/>
       <class name="Retailer_Domain.Flipcart"/>
       <class name="Retailer_Domain.Ajio"/>
-      <class name="Retailer_Domain.Meesho"/>
+      <class name="Retailer_Domain.MyntraTC"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

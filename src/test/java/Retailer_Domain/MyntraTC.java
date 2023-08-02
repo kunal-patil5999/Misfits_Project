@@ -14,6 +14,7 @@ public class MyntraTC {
 	  Reporter.log("Myntra TS",true);
 	  driver.manage().window().maximize();
 	  
+	  
 	  Thread.sleep(3000);
 	  driver.close();
 	  
